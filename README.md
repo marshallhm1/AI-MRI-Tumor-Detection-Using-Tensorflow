@@ -9,6 +9,4 @@ The .h5 file is required to compile the app but is too large for GitHub; you can
 I also give a live walkthrough and explanation [here]([https://www.youtube.com/watch?v=cfH0qwDjWaA&ab_channel=MarshallMorgan]).
 
 Results of the model: 
-
-![image]([https://github.com/marshallhm1/Tumor-Detection-Using-TensorFlow-and-Xception/tree/0fcedfabd4e5245d99daaae08f6d5d9636b27749/screenshots/results.png])
-
+![results](https://github.com/marshallhm1/Tumor-Detection-Using-TensorFlow-and-Xception/assets/105462702/10dbc219-eaf9-45ba-9601-326ba63ea65e)
