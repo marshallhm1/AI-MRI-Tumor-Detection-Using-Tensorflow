@@ -10,6 +10,8 @@ I also give a live walkthrough and explanation [here]([https://www.youtube.com/w
 
 Results of the model: 
 
+![image](https://github.com/marshallhm1/Tumor-Detection-Using-TensorFlow-and-Xception/assets/105462702/063eac7f-77e8-4c4f-9b2b-a72836eade82)
+
 
 Glioma: 84.99%
 
