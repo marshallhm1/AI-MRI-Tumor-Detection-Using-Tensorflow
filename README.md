@@ -10,7 +10,7 @@ I also give a live walkthrough and explanation [here]([https://www.youtube.com/w
 
 Results of the model: 
 
-![image](https://github.com/marshallhm1/Tumor-Detection-Using-TensorFlow-and-Xception/screenshots/results.png)
+![image]([https://github.com/marshallhm1/Tumor-Detection-Using-TensorFlow-and-Xception/tree/0fcedfabd4e5245d99daaae08f6d5d9636b27749/screenshots])
 
 
 
