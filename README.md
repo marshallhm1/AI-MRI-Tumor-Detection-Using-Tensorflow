@@ -1,5 +1,8 @@
 # Tumor-Detection-Using-TensorFlow-and-Xception
 
+This project was created for HackRice13
+
+
 This app can detect 3 types of cancer from MRI samples using TensorFlow, Xception, TKinter and OpenCV.
 
 ![image](https://github.com/marshallhm1/Tumor-Detection-Using-TensorFlow-and-Xception/assets/105462702/063eac7f-77e8-4c4f-9b2b-a72836eade82)
